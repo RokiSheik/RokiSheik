@@ -20,7 +20,7 @@ I'm an undergraduate Computer Science & Engineering student at the Rangpur Engin
 <div align="left"> 
   <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=yellow" alt="Laravel" title="Laravel" height="30" />
   <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=yellow" alt="PHP" title="PHP" height="30" />
-  <img src="https://img.shields.io/badge/Vue-282C34?logo=vue&logoColor=yellow" alt="Vue" title="Vue" height="30" />
+  <img src="https://img.shields.io/badge/Vue-282C34?logo=vue.js&logoColor=yellow" alt="Vue" title="Vue" height="30" />
   <img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=yellow" alt="C" title="C" height="30" />
   <img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=blue" alt="C++" title="C++" height="30" />
   <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android" title="Android" height="30" />
