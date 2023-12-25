@@ -8,9 +8,9 @@ I'm an undergraduate Computer Science & Engineering student at the Rangpur Engin
 
 * 🌍  **I'm from Rajshahi, Bangladesh**
 * ✉️  **You can contact me at [roki.cse02@gmail.com](mailto:roki.cse02@gmail.com)**
-* 🚀  **I'm currently working on "Artifacts suppression from EEG signal using sub-band approach"**
+* 🚀  **I'm currently working on "Some Laravel Project"**
 * 🧠  **I'm learning Web Design and Web Development(Laravel)**
-* ⚡  **I'm also very good at Graphics Designing using Adobe Illustrator**
+* ⚡  **I'm also very good at Search Engine Optimisation**
 * 🌐  **Check out my Portfolio Website [Click Here](https://rokisheik.com)**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rokisheik&label=Profile%20Views&color=0e75b6&style=flat" alt="Rokisheik" height=30 /> </p>
@@ -18,6 +18,9 @@ I'm an undergraduate Computer Science & Engineering student at the Rangpur Engin
 
 ### 🛠 Languages, Technologies & Frameworks
 <div align="left"> 
+  <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=yellow" alt="Laravel" title="Laravel" height="30" />
+  <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=yellow" alt="PHP" title="PHP" height="30" />
+  <img src="https://img.shields.io/badge/Vue-282C34?logo=vue&logoColor=yellow" alt="Vue" title="Vue" height="30" />
   <img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=yellow" alt="C" title="C" height="30" />
   <img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=blue" alt="C++" title="C++" height="30" />
   <img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android" title="Android" height="30" />
