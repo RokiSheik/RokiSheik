@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://github.com/RokiSheik/RokiSheik/blob/main/rokisheikbanner.png" />
+    <img src="https://github.com/RokiSheik/RokiSheik/blob/main/MD%20ROKI%20SHEIK.png" />
 </h1>
 
 
-I'm an undergraduate Computer Science & Engineering student at the Rangpur Engineering College Affiliated By University of Rajshahi. I'm very passionate about Programming & love to Solve Problems.
+I Completed my BSc Engineering in Computer Science and Engineering at Rangpur Engineering College, which is Affiliated with the University of Rajshahi. I'm very passionate about Programming and love Solving Problems.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  **I'm from Rajshahi, Bangladesh**
