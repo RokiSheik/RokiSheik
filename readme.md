@@ -28,7 +28,7 @@ I Completed my BSc Engineering in Computer Science and Engineering at Rangpur En
   <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS" title="CSS" height="30" />
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" height="30" />
   <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python" title="Python" height="30" /> 
-  <img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind&logoColor=61DAFB" alt="Tailwind" title="Tailwind" height="30" />
+  <img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwindcss&logoColor=61DAFB" alt="Tailwind" title="Tailwind" height="30" />
   <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=#FF9A00" alt="Figma" title="Adobe Figma" height="30" />
   <img src="https://img.shields.io/badge/Photoshop-282C34?logo=adobephotoshop&logoColor=#31A8FF" alt="Adobe Photoshop" title="Adobe Photoshop" height="30" />
   <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" title="Git" height="30" />
