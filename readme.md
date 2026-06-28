@@ -3,14 +3,13 @@
 </h1>
 
 
-I Completed my BSc Engineering in Computer Science and Engineering at Rangpur Engineering College, which is Affiliated with the University of Rajshahi. I'm very passionate about Programming and love Solving Problems.
+Founder and Team Leader of a forward-thinking web development agency, leading a talented team to build high-performance, scalable digital solutions. Dedicated to bridging cutting-edge technology with seamless user experiences to help businesses scale and thrive in the modern digital landscape.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  **I'm from Rajshahi, Bangladesh**
 * ✉️  **You can contact me at [roki.cse02@gmail.com](mailto:roki.cse02@gmail.com)**
-* 🚀  **I'm currently working on "Some Laravel Project"**
-* 🧠  **I'm learning Web Design and Web Development(Laravel)**
-* ⚡  **I'm also very good at Search Engine Optimisation**
+* 🚀  **I'm currently Managing the "[GoodlySoft](https://goodlysoft.com) Agency"**
+* 🧠  **I'm learning Leadership**
 * 🌐  **Check out my Portfolio Website [Click Here](https://rokisheik.com)**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rokisheik&label=Profile%20Views&color=0e75b6&style=flat" alt="Rokisheik" height=30 /> </p>
